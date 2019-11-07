@@ -19,9 +19,9 @@ module.exports = {
                     { text: 'nodejs', link: '/nodejs/' },
                 ]
             },
-            // { text: '生活', link: '/life/' },
-            // { text: '关于', link: '/about/' },
-            // { text: 'GitHub', link: 'https://github.com/keyubin' },
+            { text: '生活', link: '/life/' },
+            { text: '关于', link: '/about/' },
+            { text: 'GitHub', link: 'https://github.com/keyubin' },
         ],
         sidebar: {
             '/project/': ['/project/',
